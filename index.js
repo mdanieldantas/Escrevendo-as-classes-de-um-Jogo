@@ -30,9 +30,9 @@ class Heroi {
   }
 }
 
-// Exemplo de uso:
+
 const heroi1 = new Heroi("Herói Mago", 25, "mago");
-heroi1.atacar(); // Saída: "o mago atacou usando magia"
+heroi1.atacar(); 
 
 const heroi2 = new Heroi("Herói Guerreiro", 30, "guerreiro");
-heroi2.atacar(); // Saída: "o guerreiro atacou usando espada"
+heroi2.atacar(); 
